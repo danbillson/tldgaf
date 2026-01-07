@@ -17,9 +17,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on adding new messages.
 ## Tech Stack
 
 - Pure HTML/CSS/JavaScript (zero dependencies)
-- Playfair Display serif font
-- Deployed on Vercel
-- Total size: ~5KB
+- Fraunces serif font
+- Total size: ~3KB
 
 ## Local Development
 
@@ -36,16 +35,3 @@ npx serve
 ```
 
 Then visit http://localhost:8000
-
-## Deployment
-
-Automatically deploys to Vercel when pushing to the `main` branch. To deploy your own:
-
-1. Fork this repository
-2. Connect it to Vercel
-3. Deploy (zero configuration required)
-4. Add your custom domain in Vercel settings
-
-## License
-
-MIT
